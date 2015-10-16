@@ -256,6 +256,10 @@ td {
   border: 1px solid #373737;
  }
  
+tr#logos {
+  padding-top: none;
+  padding-bottom: none;
+}
 td#logos {
   border: none;
   text-align: center;
