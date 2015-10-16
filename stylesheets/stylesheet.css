@@ -265,6 +265,16 @@ td#logos {
   text-align: center;
   vertical-align: middle;
 }
+td#logoBottom {
+  border: none;
+  text-align: center;
+  vertical-align: bottom;
+}
+td#logoTop {
+  border: none;
+  text-align: center;
+  vertical-align: top;
+}
 
 form {
   background: #f2f2f2;
