@@ -257,8 +257,9 @@ td {
  }
  
 tr#logos {
-  padding-top: none;
-  padding-bottom: none;
+  padding-top: 0;
+  padding-bottom: 0;
+  /*margin: 0;*/
 }
 td#logos {
   border: none;
