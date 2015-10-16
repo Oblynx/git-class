@@ -242,6 +242,7 @@ table {
  table#logos {
    border: none;
    border-collapse: collapse;
+   border-spacing: 0;
  }
 
 th {
@@ -256,15 +257,12 @@ td {
   border: 1px solid #373737;
  }
  
-tr#logos {
-  padding-top: 0;
-  padding-bottom: 0;
-  margin: 0;
-}
 td#logos {
   border: none;
   text-align: center;
   vertical-align: middle;
+  padding-bottom: 0;
+  padding-top: 0;
 }
 /*td#logoBottom {
   border: none;
