@@ -259,13 +259,14 @@ td {
 tr#logos {
   padding-top: none;
   padding-bottom: none;
+  text-align: center;
 }
 td#logos {
   border: none;
   text-align: center;
   vertical-align: middle;
 }
-td#logoBottom {
+/*td#logoBottom {
   border: none;
   text-align: center;
   vertical-align: bottom;
@@ -274,7 +275,7 @@ td#logoTop {
   border: none;
   text-align: center;
   vertical-align: top;
-}
+}*/
 
 form {
   background: #f2f2f2;
