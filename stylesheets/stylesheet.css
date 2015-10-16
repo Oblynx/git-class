@@ -243,6 +243,7 @@ table {
    border: none;
    border-collapse: collapse;
    border-spacing: 0;
+   width: 100%;
  }
 
 th {
@@ -264,16 +265,6 @@ td#logos {
   padding-bottom: 0;
   padding-top: 0;
 }
-/*td#logoBottom {
-  border: none;
-  text-align: center;
-  vertical-align: bottom;
-}
-td#logoTop {
-  border: none;
-  text-align: center;
-  vertical-align: top;
-}*/
 
 form {
   background: #f2f2f2;
