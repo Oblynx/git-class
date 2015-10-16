@@ -259,11 +259,11 @@ td {
 tr#logos {
   padding-top: none;
   padding-bottom: none;
-  text-align: center;
-  border: none;
-  vertical-align: bottom;
 }
 td#logos {
+  border: none;
+  text-align: center;
+  vertical-align: middle;
 }
 /*td#logoBottom {
   border: none;
