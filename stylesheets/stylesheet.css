@@ -242,6 +242,8 @@ table {
  table#logos {
    border: none;
    border-collapse: collapse;
+   border-spacing: 0;
+   width: 100%;
  }
 
 th {
@@ -260,6 +262,8 @@ td#logos {
   border: none;
   text-align: center;
   vertical-align: middle;
+  padding-bottom: 0;
+  padding-top: 0;
 }
 
 form {
